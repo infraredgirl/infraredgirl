@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 I'm a Principal Software Engineer at 
-[<img height="20" src="https://media.licdn.com/dms/image/C560BAQGd_yGU8OIkAw/company-logo_100_100/0/1630586846038/gruntwork_logo?e=1701302400&v=beta&t=1yi86Cs_g7P3gC6AtJRNXGruSklc3g2KMffQwe9iKAc" /> Gruntwork](https://gruntwork.io/). 
+[<img height="20" src="https://global.discourse-cdn.com/standard11/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" /> Gruntwork](https://gruntwork.io/). 
 Previously: 
 [<img height="20" src="https://logowik.com/content/uploads/images/elastic-search2066.jpg" /> Elastic](https://www.elastic.co/) and 
 [<img height="20" src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" /> Red Hat](https://www.redhat.com/).
@@ -16,7 +16,7 @@ I'm a huge proponent of OSS and have contributed to a number of OSS projects.
 Here are just a few of the contributions I'm particularly proud of:
   - [<img height=20 src="https://skillicons.dev/icons?i=django" />](https://github.com/django)
     [Added --exclude option to compilemessages and makemessages](https://github.com/django/django/commit/0707b824fe77e08ca8b75fcc3738ada694f2a3a6)
-  - [<img height="20" src="https://media.licdn.com/dms/image/C560BAQGd_yGU8OIkAw/company-logo_100_100/0/1630586846038/gruntwork_logo?e=1701302400&v=beta&t=1yi86Cs_g7P3gC6AtJRNXGruSklc3g2KMffQwe9iKAc" />](https://github.com/gruntwork-io/terragrunt)
+  - [<img height="20" src="https://avatars.githubusercontent.com/u/17118990?s=48&v=4" />](https://github.com/gruntwork-io/terragrunt)
     [Make retryable errors configurable](https://github.com/gruntwork-io/terragrunt/commit/7f0920ab4b961984a8d1cb60af48a2bb00961ad9)
   - [<img height=20 src="https://skillicons.dev/icons?i=openstack" />](https://github.com/openstack)
     [Add a modulo core constraint](https://github.com/openstack/heat/commit/b1144b22ce9302a1ea621dfab4f760c3a8ed094d)
