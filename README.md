@@ -31,12 +31,7 @@ Here are just a few of the contributions I'm particularly proud of:
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=python,go,django,flask,ruby,rails,linux,bash,emacs,aws,openstack,docker,heroku" />
-  
 <img src="https://skillicons.dev/icons?i=githubactions,github,gitlab,git,mysql,postgres,sqlite,jenkins,ansible,idea,latex,regex,swift" />
-
-## Stats
-
-<img height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=infraredgirl&include_all_commits=true&count_private=true&show_icons=true&theme=swift&rank_icon=github&border_radius=10" alt="readme stats" /> <img height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=infraredgirl&hide=html,css&langs_count=6&layout=compact&theme=swift&border_radius=10" alt="top langs" />
 
 ## Get in touch
 [<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:akrivokapic1@gmail.com)
